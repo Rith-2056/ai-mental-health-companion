@@ -1,0 +1,1 @@
+User → Streamlit UI → Chatbot (Gemini API / OpenAI) → Firestore (secure session logs)
