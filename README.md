@@ -165,18 +165,6 @@ The application is designed for deployment on:
 - [ ] Load testing and optimization
 - [ ] Comprehensive documentation
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This application is designed for educational and supportive purposes only. It is not a substitute for professional mental health care, therapy, or medical advice. If you're experiencing a mental health crisis, please contact:
@@ -184,13 +172,6 @@ This application is designed for educational and supportive purposes only. It is
 - **Emergency Services**: 911 (US) or your local emergency number
 - **National Suicide Prevention Lifeline**: 988 (US)
 - **Crisis Text Line**: Text HOME to 741741 (US)
-
-## 🙏 Acknowledgments
-
-- Google AI for the Gemini API
-- Google Cloud for Firestore and hosting infrastructure
-- Streamlit for the rapid UI development framework
-- The open-source community for inspiration and tools
 
 ---
 
